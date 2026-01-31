@@ -4,7 +4,7 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
+    // Example: "Jade", "Sarah", "Mik"
     valentineName: "Nawaal Dahir Imam",
 
     // The title that appears in the browser tab
